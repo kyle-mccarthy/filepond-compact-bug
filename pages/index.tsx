@@ -5,6 +5,11 @@ const Home: FC = () => {
   return (
     <div>
       <h3>Style Panel Layout Bug</h3>
+      <p>
+        <a href="https://github.com/kyle-mccarthy/filepond-compact-bug">
+          Github Repo
+        </a>
+      </p>
       <div>
         <p style={{ color: 'green' }}>Default</p>
         <div style={{ maxWidth: 300, border: 'solid 1px black' }}>
